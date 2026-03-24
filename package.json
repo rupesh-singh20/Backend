@@ -1,0 +1,23 @@
+{
+  "name": "backend-by-hitesh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupesh-singh20/Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupesh-singh20/Backend/issues"
+  },
+  "homepage": "https://github.com/rupesh-singh20/Backend#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
